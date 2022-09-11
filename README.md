@@ -1,1 +1,4 @@
-/_ This is my readme file _/
+#student portfolio
+
+Hey ! Welcome to my portfolio.
+Its coming up tomorrow when I learn HTML and CSS with tanay Pratap live on Youtube.
